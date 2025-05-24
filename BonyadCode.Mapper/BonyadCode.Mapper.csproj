@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+
+        <!-- NuGet Info -->
+        <IsPackable>true</IsPackable>
+        <PackageId>BonyadCode.Mapper.AspNetCore</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Mojtaba Hosseini</Authors>
+        <Company>BonyadCode</Company>
+        <Description>A lightweight and flexible object-to-object mapping utility for .NET. Supports automatic property mapping between classes, structs, and records using reflection. Ideal for DTO transformations, data shaping, and lightweight model copying.</Description>
+        <PackageTags>Mapper;Mapping;Class;Record;Struct;</PackageTags>
+        <RepositoryUrl>https://github.com/bonyadcode/Mapper.AspNetCore</RepositoryUrl>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <PackageLicenseFile>LICENSE</PackageLicenseFile>
+
+        <!-- Source link -->
+        <PublishRepositoryUrl>true</PublishRepositoryUrl>
+        <EmbedUntrackedSources>true</EmbedUntrackedSources>
+        <IncludeSymbols>true</IncludeSymbols>
+        <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <None Include="..\README.md" Pack="true" PackagePath=""/>
+        <None Include="..\LICENSE" Pack="true" PackagePath=""/>
+    </ItemGroup>
+
+</Project>
