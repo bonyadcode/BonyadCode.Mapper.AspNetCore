@@ -89,7 +89,7 @@ class UserDto { public string Username { get; set; } public string Email { get; 
 
 ## 🤝 Contributing
 
-Contributions, ideas, and pull requests are welcome! [GitHub →](https://github.com/bonyadcode/Mapper.AspNetCore)
+Contributions, ideas, and pull requests are welcome! [GitHub →](https://github.com/bonyadcode/BonyadCode.Mapper.AspNetCore)
 
 ## 📄 License
 
@@ -98,4 +98,9 @@ Apache 2.0 — see the [LICENSE](LICENSE) file.
 ## 📦 Links
 
 * [NuGet](https://www.nuget.org/packages/BonyadCode.Mapper.AspNetCore)
-* [GitHub](https://github.com/bonyadcode/Mapper.AspNetCore)
+* [GitHub](https://github.com/bonyadcode/BonyadCode.Mapper.AspNetCore)
+
+Usage Conditions:
+- This program must not be used for any military or governmental purposes without the owner's consent.
+- This program must not be used for any inhumane purposes.
+- This program must not be used for any illegal or haram activities.

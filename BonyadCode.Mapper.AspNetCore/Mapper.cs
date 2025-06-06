@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace BonyadCode.Mapper;
+namespace BonyadCode.Mapper.AspNetCore;
 
 public static class Mapper
 {

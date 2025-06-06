@@ -13,7 +13,7 @@
         <Company>BonyadCode</Company>
         <Description>A lightweight and flexible object-to-object mapping utility for .NET. Supports automatic property mapping between classes, structs, and records using reflection. Ideal for DTO transformations, data shaping, and lightweight model copying.</Description>
         <PackageTags>Mapper;Mapping;Class;Record;Struct;</PackageTags>
-        <RepositoryUrl>https://github.com/bonyadcode/Mapper.AspNetCore</RepositoryUrl>
+        <RepositoryUrl>https://github.com/bonyadcode/BonyadCode.Mapper.AspNetCore</RepositoryUrl>
         <PackageReadmeFile>README.md</PackageReadmeFile>
         <PackageLicenseFile>LICENSE</PackageLicenseFile>
 
