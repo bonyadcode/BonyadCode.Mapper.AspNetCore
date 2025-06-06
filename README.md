@@ -1,3 +1,5 @@
+In the name of God
+
 # BonyadCode.Mapper.AspNetCore
 
 A lightweight and flexible object-to-object mapping utility for .NET. Supports automatic property mapping between classes, structs, and records using reflection. Ideal for DTO transformations, data shaping, and lightweight model copying.
